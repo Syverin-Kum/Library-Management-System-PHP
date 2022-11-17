@@ -12,7 +12,7 @@ Download the provided source code zip file.
 
 Enable the GD Library in your php.ini file.
 Open your XAMPP Control Panel and start Apache and MySQL.
-Extract the downloaded source code zip file.
+Extract the downloaded source code zip file to a newly created folder and label it "LMS".
 Copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory.
 Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
 Create a new database named LMS.
